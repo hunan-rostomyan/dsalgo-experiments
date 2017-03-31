@@ -1,6 +1,6 @@
 from functools import partial
 
-from singly import Link
+from doubly import Link
 from util.link import links_from_list
 
 
